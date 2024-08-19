@@ -1,1 +1,2 @@
 # Classification-Feature-Engineering-and-Deployment-of-Machine-Learning-models
+Predicted red and white wine quality (0-10) using Random Forest, SVM, and MLP regression models, evaluating feature importance, and cross-validating red-trained models on white wine, resulting in higher RMSE. Performed label encoding and iterative feature imputation of mouse category database to classify down syndrome genotypes with the above models, with accuracy score of 0.667, 0.45, 0.484 respectively.
